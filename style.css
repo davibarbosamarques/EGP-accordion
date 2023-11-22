@@ -1,0 +1,8 @@
+.accordion-button {
+    background-image: linear-gradient(to right, #2db39e, #26a737);
+}
+  
+  .accordion-body {
+    background-image: linear-gradient(to right, #2db39e, #26a737);
+    color: #fff;
+}
